@@ -8,12 +8,11 @@
     <version>23.1.0</version>
     <qgis_minimum_version>3.0</qgis_minimum_version>
     <!-- <homepage></homepage> -->
-    <file_name>Linker_23.1.0.zip</file_name>
+    <file_name>Linker.23.1.0.zip</file_name>
     <author_name>justin</author_name>
-    <download_url>https://github.com/Justin-Marine/Linker/releases/download/23.1.0/Linker_23.1.0.zip</download_url>
+    <download_url>https://github.com/Justin-Marine/Linker/releases/download/23.1.0/Linker.23.1.0.zip</download_url>
     <uploaded_by>Justin</uploaded_by>
     <create_date>2023-01-12</create_date>
     <update_date>2023-02-16</update_date>
 </pyqgis_plugin> 
-
 </plugins>
